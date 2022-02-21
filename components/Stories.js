@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import faker from "faker";
-
+//1.34.46 
 function Stories() {
 //useEffect allows you to refire this function by taking the update 
 //from the data and loads everytime the browser is refreshed or new data is added
@@ -9,7 +9,7 @@ function Stories() {
           ...faker.helpers.contextualCard(),
           id:i,
         }));
-        
+
         console.log(suggestions);
     }, []);
 
