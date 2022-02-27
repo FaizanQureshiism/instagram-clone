@@ -1,5 +1,5 @@
 import React from 'react'
-//2.3.05
+//2.3.05  
 function MiniProfile() {
   return (
     <div className='flex items-center justify-between mt-14 ml-10'>
