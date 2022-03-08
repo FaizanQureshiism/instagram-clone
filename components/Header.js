@@ -14,6 +14,8 @@ import { useSession } from "next-auth/react";
 
 function Header() {
   const { data: session } = useSession();
+
+
   console.log(session);
   //so this session bring out the info of the user that has login displaying gmail address from google authentication
   return (
