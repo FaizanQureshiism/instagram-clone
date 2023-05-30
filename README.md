@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This application was created using Nextjs for the front-end and Tailwind for css properties to beautify our project.
+
+![Screenshot from 2023-05-30 19-26-40](https://github.com/FaizanQureshiism/instagram-clone/assets/85942282/c4e657e7-892f-47d7-9fd8-9fcb387646ed)
+
+
 ## Getting Started
 
 First, run the development server:
